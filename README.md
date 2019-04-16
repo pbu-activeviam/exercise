@@ -1,0 +1,2 @@
+# exercise
+GitHub training course
